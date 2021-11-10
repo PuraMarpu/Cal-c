@@ -1,0 +1,30 @@
+#body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 120px;
+    padding: 10px;
+    background-color: #0e0e0e;
+    border-radius: 5px;
+}
+#input{
+    width: 93%; 
+    align-self: start;
+    background-color:rgb(40, 10, 50);
+    color: azure;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+button{
+    width: 27px;
+    height: 27px;
+}
+#plusDIV{
+    display: flex;
+    position: absolute;
+    top: 133px;
+    left: 110.5px;
+}
